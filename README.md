@@ -16,9 +16,9 @@ I enjoy creating software from the ground up—designing interfaces, developing 
 ```text
 Frontend   React • Next.js • TypeScript
 Backend    Node.js • Express • Python
-Database   PostgreSQL • MySQL • MongoDB
-Languages  JavaScript • TypeScript • Python • C# • C++ • Java
-Tools      Git • Docker • Linux
+Database   PostgreSQL • MySQL 
+Languages  JavaScript • Python • C# • C++ • Java
+Tools      Git • Github • Unity • Vercel
 ```
 
 ### Currently
