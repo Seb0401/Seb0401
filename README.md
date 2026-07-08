@@ -1,4 +1,4 @@
-# Sebastian Barreda
+# Hi, I'm Sebastian Barreda 👋
 
 > **Full-Stack Developer building modern applications with an eye on AI and Data Engineering.**
 
@@ -31,8 +31,3 @@ Tools      Git • Docker • Linux
 ---
 
 > *"The best way to learn is to build."*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seb0401&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seb0401&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
-</p>
